@@ -6,3 +6,7 @@ body{
     width:300px;
     height: auto;
 }
+#salameche {
+    width: 500px !important;
+    height: auto !important;
+}
